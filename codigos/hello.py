@@ -1,3 +1,4 @@
 name = input("Digite o seu nome:")
+idade = int("Digite sua idade:")
 
-print("Hello,",name)
+print(f"Hello {name}. Você tem {idade} anos.")
